@@ -43,7 +43,7 @@ export const state = () => ({
           created_at: "2020/11/07",
           avatar: "i.pravatar.cc/300",
           birthdate: "2001/10/21",
-          gender: "M",
+          gender: "F",
           social_networks: [
             {
               id: 1, // uuid
@@ -171,7 +171,7 @@ export const state = () => ({
           created_at: "2020/11/07",
           avatar: "i.pravatar.cc/300",
           birthdate: "2001/10/21",
-          gender: "M",
+          gender: "O",
           social_networks: [
             {
               id: 1, // uuid

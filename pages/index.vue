@@ -1,6 +1,7 @@
 <template>
   <NuxtLink to="/required-actions/applications"
-    :class="routePath === '/required-actions/applications' ? 'active text-red-500' : ''" class="my-4 inline-block">
+    :class="routePath === '/required-actions/applications' ? 'active text-red-500' : ''"
+    class="my-4 btn bg-red-500 text-white hover:bg-red-700 font-semibold border rounded p-4">
     Applications
   </NuxtLink>
 </template>
